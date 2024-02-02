@@ -1,2 +1,2 @@
 # U-Net
-Custom Dataset training with U-Net
+Custom Dataset training with U-Net architecture.
